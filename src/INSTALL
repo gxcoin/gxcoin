@@ -1,0 +1,9 @@
+Building GxCoin
+
+See doc/readme-qt.rst for instructions on building GxCoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of GxCoin.
+
+See doc/build-*.txt for instructions on building gxcoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of GxCoin.

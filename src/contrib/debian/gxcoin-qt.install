@@ -1,0 +1,6 @@
+gxcoin-qt usr/bin
+share/pixmaps/gxcoin32.xpm usr/share/pixmaps
+share/pixmaps/gxcoin16.xpm usr/share/pixmaps
+share/pixmaps/gxcoin128.png usr/share/pixmaps
+debian/gxcoin-qt.desktop usr/share/applications
+debian/gxcoin-qt.protocol usr/share/kde4/services/

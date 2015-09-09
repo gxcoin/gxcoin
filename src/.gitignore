@@ -1,0 +1,34 @@
+src/*.exe
+src/gxcoin
+src/gxcoind
+src/test_gxcoin
+.*.swp
+*.*~*
+*.bak
+*.rej
+*.orig
+*.o
+*.patch
+.gxcoin
+
+# Compilation and Qt preprocessor part
+*.qm
+Makefile
+gxcoin-qt
+Gxcoin-Qt.app
+
+# Unit-tests
+Makefile.test
+gxcoin-qt_test
+
+# Resources cpp
+qrc_*.cpp
+
+# Qt creator
+*.pro.user
+
+# Mac specific
+.DS_Store
+build
+
+!src/leveldb-*/Makefile

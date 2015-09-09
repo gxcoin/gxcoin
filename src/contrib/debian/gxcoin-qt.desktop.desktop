@@ -1,0 +1,11 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Gxcoin
+Comment=Gxcoin P2P Cryptocurrency
+Exec=/usr/bin/gxcoin-qt %u
+Terminal=false
+Type=Application
+Icon=/usr/share/pixmaps/gxcoin128.png
+MimeType=x-scheme-handler/gxcoin;
+Categories=Office;
+Name[en_US]=gxcoin-qt.desktop
